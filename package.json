@@ -1,0 +1,11 @@
+{
+  "name": "mithun-chat-bot",
+  "version": "1.0.0",
+  "description": "Simple teach based chat bot by Mithun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mithun",
+  "license": "MIT"
+}
